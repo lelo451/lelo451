@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leonardo Deganello de Souza 👋
 
 <!--
-**Americo509/Americo509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lelo451/lelo451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  <div> 
-  <a href="https://github.com/Americo509">
+  <a href="https://github.com/lelo451">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lelo451&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelo451&layout=compact&langs_count=7&theme=gotham"/>
 </div>
