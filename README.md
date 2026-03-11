@@ -1,24 +1,52 @@
-### Olá! Eu sou o Leonardo Deganello de Souza 👋
+# Olá, eu sou Leonardo Deganello de Souza 👋
 
-<!--
-**lelo451/lelo451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend / Fullstack  
+📍 Maringá - PR, Brasil  
+♿ Pessoa com Deficiência (PCD)  
+🚀 Aberto a oportunidades (preferencialmente remoto)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
 
- <div> 
-  <a href="https://github.com/lelo451">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lelo451&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelo451&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+Sou desenvolvedor de software com experiência no desenvolvimento e manutenção de sistemas corporativos.
 
-  ![Snake animation](https://github.com/lelo451/lelo451/blob/main/snake.svg)
+Tenho experiência principalmente com desenvolvimento backend utilizando **Java**, além de conhecimento em **APIs REST**, **bancos de dados relacionais** e desenvolvimento **Full Stack** utilizando **Angular e JavaScript**.
+
+Gosto de resolver problemas, aprender novas tecnologias e contribuir para a melhoria contínua dos sistemas.
+
+---
+
+## Tecnologias
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- SQL
+
+### Frontend
+- Angular
+- JavaScript
+- HTML
+- CSS
+
+### Banco de dados
+- MySQL
+
+### Ferramentas
+- Git
+- GitHub
+- GitKraken
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lelo451&show_icons=true)
+
+---
+
+## Contato
+- LinkedIn: www.linkedin.com/in/leonardo-deganello-aa07b1127
+- GitHub: https://github.com/lelo451
