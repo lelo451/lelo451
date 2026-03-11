@@ -20,13 +20,13 @@ Gosto de resolver problemas, aprender novas tecnologias e contribuir para a melh
 ## Tecnologias
 
 ### Backend
-- Java
-- Spring Boot
+- ![Java](https://img.shields.io/badge/Java-ED8B00)
+- ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F)
 - REST APIs
 - SQL
 
 ### Frontend
-- Angular
+- ![Angular](https://img.shields.io/badge/Angular-DD0031)
 - JavaScript
 - HTML
 - CSS
